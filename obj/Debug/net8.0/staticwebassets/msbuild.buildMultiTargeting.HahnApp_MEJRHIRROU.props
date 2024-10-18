@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\HahnApp_MEJRHIRROU.props" />
+</Project>
